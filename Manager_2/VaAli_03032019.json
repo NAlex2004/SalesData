@@ -1,0 +1,32 @@
+[
+    {
+        "SaleDate" : "2019-03-03T09:44:05+03:00",
+        "CustomerName" : "Customer name #4",
+        "ProductName" : "Product name #1",
+        "totalSum" : "13.54"
+    },
+    {
+        "SaleDate" : "2019-03-03T09:40:05+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #2",
+        "totalSum" : "114.5"
+    },
+    {
+        "SaleDate" : "2019-03-02T10:04:05+03:00",
+        "CustomerName" : "Customer name #5",
+        "ProductName" : "Product name #4",
+        "totalSum" : "999.22"
+    },
+    {
+        "SaleDate" : "2019-03-03T10:10:00+03:00",
+        "CustomerName" : "Customer name #3",
+        "ProductName" : "Product name #1",
+        "totalSum" : "19.16"
+    },
+    {
+        "SaleDate" : "2019-03-01T10:20:45+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #4",
+        "totalSum" : "177.5"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+    },
+    {
+        "CustomerName" : "Customer name #1EE",
+        "totalSum" : "114.5"
+    },
+    {
+    },
+    {
+        "SaleDate" : "2019-03-03T10:10:00+03:00",
+        "CustomerName" : "Customer name #3EE",
+        "ProductName" : "Product name #1EE",
+        "totalSum" : "19.16"
+    },
+    {
+        "SaleDate" : "2019-03-01T10:20:45+03:00",
+        "CustomerName" : "Customer name #1EE",
+        "ProductName" : "Product name #4EE",
+        "totalSum" : "177.5"
+    }
+]
