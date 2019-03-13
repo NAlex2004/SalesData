@@ -1,0 +1,92 @@
+[
+    {
+        "SaleDate" : "2019-03-13T09:44:05+03:00",
+        "CustomerName" : "Customer name #44",
+        "ProductName" : "Product name #1",
+        "totalSum" : "213.54"
+    },
+    {
+        "SaleDate" : "2019-03-13T09:40:05+03:00",
+        "CustomerName" : "Customer name #14",
+        "ProductName" : "Product name #2",
+        "totalSum" : "2114.5"
+    },
+    {
+        "SaleDate" : "2019-03-12T10:04:05+03:00",
+        "CustomerName" : "Customer name #5",
+        "ProductName" : "Product name #4",
+        "totalSum" : "2999.22"
+    },
+    {
+        "SaleDate" : "2019-03-13T10:10:00+03:00",
+        "CustomerName" : "Customer name #34",
+        "ProductName" : "Product name #11",
+        "totalSum" : "219.16"
+    },
+    {
+        "SaleDate" : "2019-03-11T10:20:45+03:00",
+        "CustomerName" : "Customer name #14",
+        "ProductName" : "Product name #41",
+        "totalSum" : "2177.5"
+    },
+        {
+        "SaleDate" : "2019-03-13T09:44:05+03:00",
+        "CustomerName" : "Customer name #4",
+        "ProductName" : "Product name #1",
+        "totalSum" : "213.54"
+    },
+    {
+        "SaleDate" : "2019-03-13T09:40:05+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #21",
+        "totalSum" : "214.5"
+    },
+    {
+        "SaleDate" : "2019-03-12T10:04:05+03:00",
+        "CustomerName" : "Customer name #5",
+        "ProductName" : "Product name #41",
+        "totalSum" : "9.22"
+    },
+    {
+        "SaleDate" : "2019-03-13T10:10:00+03:00",
+        "CustomerName" : "Customer name #34",
+        "ProductName" : "Product name #1",
+        "totalSum" : "9.16"
+    },
+    {
+        "SaleDate" : "2019-03-11T10:20:45+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #4",
+        "totalSum" : "17.5"
+    },
+        {
+        "SaleDate" : "2019-03-13T09:44:05+03:00",
+        "CustomerName" : "Customer name #44",
+        "ProductName" : "Product name #11",
+        "totalSum" : "1.54"
+    },
+    {
+        "SaleDate" : "2019-03-13T09:40:05+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #2",
+        "totalSum" : "12.5"
+    },
+    {
+        "SaleDate" : "2019-03-12T10:04:05+03:00",
+        "CustomerName" : "Customer name #5",
+        "ProductName" : "Product name #4",
+        "totalSum" : "29.22"
+    },
+    {
+        "SaleDate" : "2019-03-13T10:10:00+03:00",
+        "CustomerName" : "Customer name #34",
+        "ProductName" : "Product name #11",
+        "totalSum" : "319.16"
+    },
+    {
+        "SaleDate" : "2019-03-11T10:20:45+03:00",
+        "CustomerName" : "Customer name #1",
+        "ProductName" : "Product name #41",
+        "totalSum" : "4177.5"
+    }
+]
